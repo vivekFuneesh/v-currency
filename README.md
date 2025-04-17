@@ -292,16 +292,18 @@ And corresponding addressing of those concerns by me, and elaborated by blacky (
    - **Access to Resources**: Your aim to provide more access to resources through fair pricing is a positive aspect of the HL framework. It can help level the playing field for individuals and businesses that may have been previously disadvantaged. For data privacy issues, anonymous data collection can be done along with consents given to citizens for properly outlining the usage and analysis purpose.
 
 
-Implementation : 
-Initially it can be checked with a group of <small nation, big nation> where small is in terms of land, people, resources all. Start with basic exchanges first then move on to multiple and complex layered exchanges.
+### Implementation : 
+   - Initially it can be checked with a group of <small nation, big nation> where small is in terms of land, people, resources all. Start with basic exchanges first then move on to multiple and complex layered exchanges.
 
-Then do with <one big nation, multiple small nations> across globe. This will introduce shipping, import, export factors as well. 
+   - Then do with <one big nation, multiple small nations> across globe. This will introduce shipping, import, export factors as well. 
 
-After successful attempts, do with <big nation1, big nation2>. 
+   - After successful attempts, do with <big nation1, big nation2>. 
 Slowly and gradually shift. After all nations are there in international transaction, now move for replacement of local currencies or alternate to local currencies by redefining tax and duty rules.
 
-Some Inspirational points : 
-For those old citizens who are capable of bringing change, have good connections and resources to do so, try not to die by leaving behind such greedy systems. Because current generations and upcoming ones are mostly devoid of ground activities and have traits of weak physicality, more anger and short temperdness, greedy priciples without any foothold on values & ethics, dependent on technology(i.e. someone else will do). These type of people are seen as pitiful by strong ones. Leaving behind such defilement oriented system will only spoil them more and a global scale war is unavoided.
+### Some Inspirational points : 
+   - For those old citizens who are capable of bringing change, have good connections and resources to do so, try not to die by leaving behind such greedy systems.
+   - Because current generations and upcoming ones are mostly devoid of ground activities and have traits of weak physicality, more anger and short temperdness, greedy priciples without any foothold on values & ethics, dependent on technology(i.e. someone else will do).
+   - These type of people are seen as pitiful by strong ones. Leaving behind such defilement oriented system will only spoil them more and a global scale war is unavoidable.
 
 
 
