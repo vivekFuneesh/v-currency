@@ -1,13 +1,13 @@
 # v-currency
-A universal international currency independent of national currency fluctuations, to have fair trades and promote prosperity &amp; equality.
+   - A universal international currency independent of national currency fluctuations, to have fair trades and promote prosperity &amp; equality.
 
-                 V-Currency
+   - Independent of status of a nation.
 
-A universal unit of exchange between nations, independent of status of a nation.
+### HL 
+   - One of the component of of v-currency. It is known as Human Labour unit. It is defined in terms of calories burnt for a particular task. 
 
-HL = one of the component of of v-currency. It is known as Human Labour unit. It is defined in terms of calories burnt for a particular task. 
-
-Major task : To remove the greed, ego, power, status, fear etc. type of defilements from existing financial & exchange systems on earth. To bring equality, prosperity and to remove exploitation done through existing financial systems.
+### Major task : 
+   - To remove the greed, ego, power, status, fear etc. type of defilements from existing financial & exchange systems on earth. To bring equality, prosperity and to remove exploitation done through existing financial systems.
 
 Lets understand it by an example. Lets say we are to evaluate the production cost of an agriculture field crop using a simple iron rod.
 
