@@ -192,7 +192,7 @@ But, the average value is to be taken from regions with same sea height level an
 Possible criticisms against this framework, as pointed out by blacky..
 
 
-### Potential Criticisms of the HL Framework
+### Potential Criticisms of the HL Framework and corresponding addressings
 
 1. **Complexity of Implementation**
 
@@ -207,7 +207,7 @@ Possible criticisms against this framework, as pointed out by blacky..
 6. **Technological Dependence**:
 
 
-And detailed corresponding addressing of those concerns by me and elaborated by blacky can be read in chat files. Brief addressings : 
+   - *And detailed corresponding addressing of those concerns by me and elaborated by blacky can be read in chat files. Brief addressings*: 
 
 1. **Averages as Standards and focus on equality, prosperity**: 
 
@@ -220,32 +220,3 @@ And detailed corresponding addressing of those concerns by me and elaborated by 
 5. **Tax Revenue and Control, Peaceful nation option**: 
 
 6. **Access to Resources and anonymous data collection**: 
-
-
-### Implementation : 
-   - Initially it can be experimented between 2 villages of a nation, then with a group of <small nation, big nation>  and <small nation1, small nation2> where small is in terms of all of the land, people and resources. Start with basic exchanges first then move on to multiple and complex layered exchanges.
-
-   - Then do with <one big nation, multiple small nations> across globe. This will introduce shipping, import, export factors as well. 
-
-   - After successful attempts, do with <big nation1, big nation2>. 
-Slowly and gradually shift. After all nations are there in international transaction, now move for replacement of local currencies or alternate to local currencies by redefining tax and duty rules.
-
-
-### Teachings and trainings : 
-   - As stated earlier, every work and task comes with an education and training, be it predefined or be it from the collection of experiences of experts.
-    - But apart from work, shaping of mentality is the basic seed in this framework of v-currency so as to enable people work efficiently and worry-free within this system. Remember, our major task is to remove greed like defilements from finance systems and not to provide just another fantasy item to play around with. 
-   - Teachings that teach compassion, self-observation, accepting and correcting your mistakes, respect, caring, dedication, determination, responsibilities fulfillment etc. like that of buddha where teacher himself was noble and right, truth speaker, unattached, non intoxicant, calm, celibate, angerless, fearless, greedless etc.  Such principles must be incorporated into governing institutions for v-currency and into society.
-   - Compassion and calmness doesn't mean that such person is unable to give punishment rather it means that such person will have strongest will and action when it comes to punishment but he will also have the soft corner to give chance to the criminal to walk on noble path unlike anger and defilements oriented people who can't hold back.
-
-### Disaster management: 
-   - Have an international disaster fund, if a country goes through a natural disaster or any other kind of disaster then help it either by having its scarcity index value increased to uniformily distribute the hit to all nations or by tapping that emergency fund to uplift its citizens or both (though unlikely). 
-   - Its because when you are using v-currency then you are not just exchanging goods and services rather you are exchanging physical and mental hard work done by various communities. Similar steps within a nation, once v-currency is embedded within local. 
-
-### Stock market disclaimers and  handling: 
-   - The stocks discussed in chat with blacky are for analysis purpose only and are not being promoted or recommended in any form. 
-
-   - Under the existing financial system, stock market is based solely on demand-sale exploitive, cunning and falsehoodness for general public. v-currency doesnot support this style because when demand increases then v-currency may increase the prices but then it may also reallocate that duty to the effected producers & suppliers incase it was due to non-essential trend-shift. And when there is an increase in supply scenario, v-currency aims to prevent this scenario completely using monitoring-institutions separately but even if such a case appears then selling prices won't go down rather the defaulters will take a hit that would be reflected in their profits sheet.
-   - In the existing systems, stock markets are manipulated by either increasing buying quantity or selling quantity. Gambling is done by using futures and options that may compell big companies to increase or decrease supply in actual market accordingly.
-   - Instead v-currency preaches that stock market investement is just like any other offline investement in a business or firm. Stock price movements must not be there due to options, futures, delivery and intraday. Take an example to understand, a firm "X" wants to extend its services or wants to pay loans or for whatever reasons it decides to welcome investement by presenting a good opportunity & profits ahead for itself. Say, it's net value as per HL framework is 1 million HL. It wants 1 million HL more to complete the stated operation as per it's presentation then simply it wants to increase more members in it's 50% of the business. Then just like other members, depending upon the share %, everyone will receive annual profit percentage after deducting taxes, insurance, development fund, disaster fund.. means just like "X" was distributing profits to its owner on the basis of p%, the same way it will redistribute its profits to its new members as well.
-   - It will prevent "X" to grab and run away investors money like we hear thw case of bankruptcy.
-   - Separate monitoring institutions of current financial exchange systems will still be there to prevent fraud cases, eg. "X" may welcome inveatments but 
