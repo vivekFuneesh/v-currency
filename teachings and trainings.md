@@ -1,0 +1,6 @@
+
+### Teachings and trainings : 
+   - As stated earlier, every work and task comes with an education and training, be it predefined or be it from the collection of experiences of experts.
+    - But apart from work, shaping of mentality is the basic seed in this framework of v-currency so as to enable people work efficiently and worry-free within this system. Remember, our major task is to remove greed like defilements from finance systems and not to provide just another fantasy item to play around with. 
+   - Teachings that teach compassion, self-observation, accepting and correcting your mistakes, respect, caring, dedication, determination, responsibilities fulfillment etc. like that of buddha where teacher himself was noble and right, truth speaker, unattached, non intoxicant, calm, celibate, angerless, fearless, greedless etc.  Such principles must be incorporated into governing institutions for v-currency and into society.
+   - Compassion and calmness doesn't mean that such person is unable to give punishment or unable to penalize defaulters rather it means that such person will have strongest will and action when it comes to punishment but he will also have the soft corner to give chance to the criminal to walk on noble path unlike anger and defilements oriented people who can't hold back.
