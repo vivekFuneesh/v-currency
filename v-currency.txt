@@ -1,0 +1,365 @@
+# v-currency
+   - A universal international currency independent of national currency fluctuations, to have fair trades and promote prosperity &amp; equality.
+
+   - Independent of status of a nation.
+
+### HL 
+   - One of the component of of v-currency. It is known as Human Labour unit. It is defined in terms of calories burnt for a particular task. 
+
+### Scarcity Index 
+   - Another component of v-currency. It takes care of resource utilization, demand-supply scenarios, environmental sustainability, livelihood rights & standards. It also keeps the price fluctuations within a limit. **Motto** of this index is only and only to prevent environment exploitation, resource exploitation & wastage, people's exploitation and not to propagate greed in terms of increase and decrease prices. Prices will remain fixed in terms of H   L but         additional offsets will be added to control the exploitations.
+
+### Other indices like quality based indexes are being discussed too but not included for the time being.
+
+### Major task : 
+   - To remove the greed, ego, power, status, fear etc. type of defilements from existing financial & exchange systems on earth. To bring equality, prosperity and to remove exploitation done through existing financial systems.
+
+Lets understand it by an example. Lets say we are to evaluate the production cost of an agriculture field crop using a simple iron rod.
+
+Lets say, activity of doing 100 calories of physical work is equivalent to 1HL ≈ 1 human labour unit.
+
+Defining Labor-Based Units in Early Agriculture
+
+1. **Basic Unit of Measurement**:
+   - **1 HL (Human Labor Unit)** = 100 calories of physical work.
+
+### Activities Related to Field Work
+
+Here are some common agricultural activities that could be performed using a simple iron rod, along with an estimation of the labor units required for each task:
+
+1. **Clearing the Land**:
+   - **Activity**: Removing weeds, stones, and debris from the field.
+   - **Estimated Labor**: Clearing a small plot (e.g., 100 square meters) might take approximately 4 HL, assuming it requires about 400 calories of physical effort.
+
+2. **Tilling the Soil**:
+   - **Activity**: Using the iron rod to break up and aerate the soil.
+   - **Estimated Labor**: Tilling the same 100 square meters could take around 6 HL, as it requires more effort to penetrate the soil effectively (600 calories).
+
+3. **Planting Seeds**:
+   - **Activity**: Sowing seeds into the tilled soil.
+   - **Estimated Labor**: Planting seeds for a 100 square meter plot might take about 2 HL (200 calories), as it involves less physical exertion compared to tilling.
+
+4. **Watering the Crops**:
+   - **Activity**: Manually watering the crops using available resources (e.g., buckets).
+   - **Estimated Labor**: Watering the same plot could take around 3 HL (300 calories), depending on the distance to the water source and the method used.
+
+5. **Weeding**:
+   - **Activity**: Removing weeds that compete with crops for nutrients and water.
+   - **Estimated Labor**: Weeding a 100 square meter plot might take about 3 HL (300 calories), as it requires consistent effort over time.
+
+6. **Harvesting**:
+   - **Activity**: Collecting the mature crops from the field.
+   - **Estimated Labor**: Harvesting the crops from a 100 square meter plot could take around 5 HL (500 calories), as it involves bending, cutting, and gathering.
+
+7. **Processing the Harvest**:
+   - **Activity**: Threshing and preparing the harvested crops for storage or consumption.
+   - **Estimated Labor**: Processing the harvest from the same plot might take about 4 HL (400 calories).
+
+### Summary of Labor Units for Field Activities
+
+| Activity                | Estimated Labor (HL) | Calories |
+|------------------------|----------------------|----------|
+| Clearing the Land      | 4 HL                 | 400      |
+| Tilling the Soil       | 6 HL                 | 600      |
+| Planting Seeds         | 2 HL                 | 200      |
+| Watering the Crops     | 3 HL                 | 300      |
+| Weeding                | 3 HL                 | 300      |
+| Harvesting             | 5 HL                 | 500      |
+| Processing the Harvest  | 4 HL                 | 400      |
+| **Total**              | **27 HL**            | **2700** |
+
+That means around 27HL is required to get crops from a 100 sq. meter plot. 
+
+Now, we incorporate a helper, say at 20% partnership along with some fixed payment. 
+Then we also define non-physical units, i.e. expenditures done by helper on education and training to work in fields using a simple iron rod, say 1 million calories spent and we define a standard timeline of, say, 30 years of service.
+
+Defining Non-Physical Units
+
+1. **Caloric Investment in Education**:
+   - **Total Calories for Education**: 1 million calories are consumed for education or training.
+   - **Service Duration**: The individual provides services for 30 years after completing their education.
+
+2. **Annual Expenditure Calculation**:
+   - To determine the annual expenditure in terms of Human Labor Units (HL), we can calculate the caloric investment divided by the number of years of service:
+   \[
+   \text{Annual Expenditure (HL)} = \frac{1,000,000 \text{ calories}}{30 \text{ years}} \approx 33,333.33 \text{ calories/year}
+   \]
+
+3. **Conversion to Human Labor Units**:
+   - Since 1 HL is defined as 100 calories, we can convert the annual expenditure into HL:
+   \[
+   \text{Annual Expenditure (HL)} = \frac{33,333.33 \text{ calories}}{100 \text{ calories/HL}} \approx 333.33 \text{ HL/year}
+   \]
+
+That means around 334 relevant HL per year was spent on education and training by the helper to be elligible for the field work. This will be the offset value while calculating his fixed pay.
+
+### Total Compensation Structure
+
+Now, let’s consider the total compensation for a person who performs a specific task (let’s call it Task X1) over the span of a year, incorporating both the physical labor required for the task and the educational offset.
+
+1. **Physical Labor for Task X1**:
+   - Let’s say Task X1 requires a certain amount of physical labor, which we can quantify in HL. For example, if Task X1 requires 500 HL of physical labor over the year, we can add this to the offset payment.
+
+2. **Total Pay Calculation**:
+   - The total pay for the year would then be the sum of the physical labor required for Task X1 and the annual offset payment for education:
+   \[
+   \text{Total Pay (HL)} = \text{Physical Labor for Task X1 (HL)} + \text{Annual Offset Payment (HL)}
+   \]
+   \[
+   \text{Total Pay (HL)} = 500 \text{ HL} + 333.33 \text{ HL} \approx 833.33 \text{ HL}
+
+
+Now, as more technology is developed there will be need to revise costs.. 
+
+
+Revised Compensation Structure
+
+1. **Base Pay**:
+   - The base pay for work using a simple iron rod is **834 HL**.
+
+2. **Cost of Tool Production (C1)**:
+   - **C1** represents the total cost of producing the tool, which includes labor and education charges. This cost can be considered as the sell value or production value of the tool for the time being. Assuming that the tool can be used for 30 years as well.
+
+3. **Training Charges (U1)**:
+   - **U1** is defined as the training charge divided by 30 years. This training charge includes both the physical and education training costs of the learner.
+
+4. **Deduction in physical units**: 
+   - **D1** When helper is using new technologies and tools instead of doing manual work with iron rod, he is likely to spend less physical calories. This is the deduction or reduced physical effort.
+
+### Compensation Scenarios
+
+1. **If helper Brings his Own Tool and Have Learned to Use It**:
+   - Total Pay Calculation:
+   \[
+   \text{Total Pay (HL)} = 834 \text{ HL} + \left(\frac{C1}{30}\right) + U1 - D1
+   \]
+
+2. **If he has Learned to Use the Tool but Does Not Bring It**:
+   - Total Pay Calculation:
+   \[
+   \text{Total Pay (HL)} = 834 \text{ HL} + U1 - D1
+   \]
+
+3. **If owner trains him to Use the Tool**:
+   - Total Pay Calculation:
+   \[
+   \text{Total Pay (HL)} = 834 \text{ HL} + U1 -D1
+   \]
+   - In this case owner can either deduct training charges from base pay or from partnership profit percentage. Owner may also incorporate a special training institute subscription whose fees will be deducted from helper's pay annually.
+
+Now, We can modify and extend this model to incorporate various costs associated with the agricultural process, excluding nature-related costs. 
+
+Additional Cost Categories
+
+To create a more comprehensive model, we can introduce additional cost categories that reflect various aspects of agricultural operations:
+
+1. **Equipment Costs (E1)**:
+   - This includes the costs of machinery, tools, and equipment necessary for farming operations. This can be calculated similarly to C1, based on production costs.
+
+2. **Labor Costs (L1)**:
+   - This encompasses the costs associated with hiring additional laborers, including wages, benefits, and any training costs for those workers.
+
+3. **Maintenance Costs (M1)**:
+   - Ongoing maintenance costs for tools, machinery, and infrastructure. This can be calculated as an annual percentage of the total equipment costs.
+
+4. **Operational Costs (O1)**:
+   - This includes costs related to utilities, transportation, and any other operational expenses necessary for running the agricultural business.
+
+5. **Training and Development Costs (T1)**:
+   - This includes any additional training programs for workers to improve skills or learn new techniques, which can be factored into U1.
+
+This way, owner can calculate total production cost for a crop yield and adjust the sell value on the basis of some p% profits, with a maximum cap limit decided by majority of people and institutions.
+
+Now, We can incorporate environmental costs and risks into the compensation model as unknown factors that can affect both the owner and the laborers to incorporate the unpredictability of agricultural operations and how environmental conditions can impact productivity and costs. 
+
+**Environmental Factors**:
+   - **Weather Variability**: Factors such as delayed rain, extreme heat, or cold can lead to increased labor costs or crop losses.
+   - **Crop Damage**: If environmental conditions lead to crop destruction, this can result in financial losses for both the owner and the laborers.
+
+These losses can be distributed between owner and helper on the basis of their share percentage, directly from their fixed pay or we can make certain other approaches to Handle Losses.
+
+1. **Loss Reserve Fund**:
+   - Establish a loss reserve fund that is built from a small percentage of profits during good years. This fund can be used to cover losses during adverse conditions, ensuring that laborers' salaries remain stable.
+   - In years with losses, the fund can be tapped to cover the difference, rather than deducting from salaries.
+
+2. **Insurance or Risk Pooling**:
+   - Consider investing in agricultural insurance or creating a risk-pooling arrangement where both the owner and laborers contribute to a fund that covers losses due to environmental factors. This way, the financial burden is shared without impacting salaries directly.
+   - In the event of losses, the insurance or pooled fund can provide compensation without affecting the regular salary.
+
+And owner or group of owners or group of owners and helpers can also go for an insurance firm establishment on the basis of HL, calculated in similar way. 
+
+### Other sectors and services
+This above model is very basic without considering scarcity and quality. 
+
+   - Quality offset can also be added to base cost of a product or service. But as quality standards may differ from region to region, it is not included as component of v-currency. Note that quality does not mean foreign fruits, foreign stuffs; a kind of craze that is seen in people of every country - "OMG! Look, I bought imported stuff"; export-import scenarios will be dealt within scarcity index framework only. In order to maintain fair payment system considering quality as a measure, standard set of rules and parameters to be defined for every product, material and service. Then quality offset can be added in both +ve and -ve values, +ve for above standard and -ve for below standard according to how many points above or below standard respectively. A service quality is defined in terma of an activity completed within a given time frame with a predefined standard result.
+
+   - International Quality index :  This can be formulated based on international exchange parameters of goods and services. 
+
+   - Side Note : For areas with high quality yields, eg. region in which everyone eats same quality organic fruits and vegetables grown locally, local-quality-offset might not be required because basic assumption is that a quality product  will be consumed first instead of importing below standard products but for sending them to outer regions that offset can be included. But some regions, out of the need, greed or ignorance, export all the above standard quality things and consume poor things. For eg. people eating momos & pizzas, wearing plastics in India but exporting their sharbati wheat and fine cotton to international market. Many poor and developing countries have similar situation.
+
+   - Incase, international and local quality offsets or indexes are formulated then make sure that they dont charge double or more by overlapping.
+
+   - Introduction of common quality portal in which tested results will be shared by labs, be it private or government. This portal will present all producers along with their catalogue and test reports. For services, average of quality of a service provided to consumers should be updated on the portal. Service quality parameter may include <task, end result achieved, timeframe, promised result, pending result or service steps>; here quality can be measured by (number of pending steps)÷(total steps) ; total steps must be carefully formulated by the survey teams and quality inspection teams.
+
+   - Scarcity is another factor that is to be considered. 
+
+### Scarcity Index : 
+   - An offset value to be added either as tax or duty value. It is to be put on precious materials, low supply but high demand products and services, high supply but low demand products and services. This will completely remove demand-supply creepy mechanism that is used for exploitation and environment wastage. This will be either borne out of consumers or from producers & suppliers when they become greedy. 
+
+   - Case of High demand low supply
+For eg. Take gold as an example, Lets say that for 10grams of gold extraction 5000HL is used which includes cost of physical labour, non physical labour, environmental & other risks, tools or technology labour.
+
+Because of its use in various ornaments, medicines, leisure activities, its demand may surpass the overall supply in a region. Fear of future uncertainity and some other reasons might be there for increased demand.
+
+To prevent this, scarcity index is used. Cater to the required needs first, eg. food, health. If any tool or equipment is required for these 2 then fulfill it also. After that go for other essential requirements like security, shelter that will incorporate minimal scarcity index offset value and then go for leisure activities, further development activities that will take maximum value. Here depending upon a country's current state of requirements, these categories and corresponding scarcity index values can be altered. Eg. In a state of war, in a state of natural disaster, man made disaster etc. 
+
+There are chances that low wage works might not be able to afford leisure, just like in existing arbitrary currencies. Although this should not arise because of balance between physical and non-physical HL calculations but still considering that case, clearly define the rights and standards of a minimal lifestyle, example food, health, shelter, leisure, security, personal development. Irrespective of high or low earnings, all people must have access to that lifestyle given that they are either paying taxes or contributing minimal HL accordingly. Scarcity index value will be relieved for fulfilling such needs and rest of the activities will come under high but limited +ve offset as tax or duty. 
+
+This way a maximum capped up value of goods & services will be controlled via scarcity index, which is not a part of M.R.P. printed under existing financial systems. 
+
+In this case, if scarcity offset is not put then people would deliberately play on the basis of power, fame, relations. To avoid such scenarios and to be fair towards conservative people, non essentials are being put under additional taxes or duty to be borne out of consumer pocket into minimal-lifestyle-maintaining-fund or any other fund according to country's requirements.
+ 
+   - Case when there is high supply and low demand - 
+   - **Penalty-index**: It "can be" used on defaulters in addition to scarcity-index. 
+
+If multiple manufacturers or suppliers provide a set of services and goods in a region then factors to be considered are <quality, local-protection, environment sustainability>. 
+Scarcity Index in this case will behave on the basis of these metrics and can go supplier specific, product specific. Eg. first priority is the selling of quality products & services in market; then if all of the old-locals, outsiders and new locals are providing same quality, choose old locals first, new locals next, outsiders last; at last choose the ones who are incurring minimal losses to the consumer region's environment and if same then compare impact on outside environment as well. 
+
+Then adjust scarcity-index according to the supplier or manufacturer, and to the products and services they offer. As one supplier may be choosen but some of his products may be degrading the environment or may be of poor quality.
+
+Here preferred ones will have 0 value of scarcity index but unpreffered ones will have high value of scarcity index (reverse to high demand low supply scenario) so that preferred products and services are sold first. In this case, taxes or duty in the form of scarcity-index is to be borne out of producers and suppliers in that region. 
+**Note that** it will not be added to sell value of products & services rather it will be borne out as a separate penalty. Hence in this case a separate **penalty-index** can be used to achieve both "rise of prices of unpreffered products & services" and "duty or tax or penalty on producers & suppliers responsible for creating a greed-trap in market". 
+
+There may be cases where a vendor, out of deliberate attempt to maintain or increase consumer base, may introduce certain new quality features without prior information. In such cases, upgraded quality will be discarded while deciding preferences unless these are essential like health, medical, securiry and are instructed on urgent basis. Timings of introduction of new features are best suited before a financial year so that other vendors get prepared for its effect. This way, deliberate innovations will not be allowed and businesses will not create hurdles for each other.
+
+   - **Defaulters as suppliers & producers**: 
+   - And if all comes out to be preffered or total preferred ones still creating high supply and the excess supply has been created by producers and suppliers then put heavy penalty-index on those who have increased production & supply of the stated products & services. This will be a reverse-punishment policy to make sure that consumers dont fall in greed-trap established by producers and suppliers.  In this case value of such products & services won't be affected, which was calculated on the basis of required HL + p% profit + quality-index.
+
+   - **Defaulters as consumers** 
+   - If this excess supply is due to shift in trends or moods of consumers then help suppliers and producers by using a -ve scarcity index to curb profit margins to a certain extent and increase scarcity index to the new trend that consumers are following unless the new trend is related to high quality essential requirements like health, medicine. This way entire financial year will be safe for all. The increased scarcity index on new consumer trends will be allocated back to producers & suppliers as subsidy.
+   - Consumers, out of greed, may also increase demand by taking unaccounted money from producers & suppliers or from 3rd party firms whose motto is either to disrupt certain economy or to help producers & suppliers in propagating their stuffs. In such case, if found with proof, monitoring institutions (as defined later) will put heavy penalties on the parties involved. A famous example is luring the consumers by giving them discounts which is usually vendor's own unaccounted money but is being circulated via 3rd party investors.
+
+On a side note, these 3 parameterized metrics can change priority depending on the country's requitement. But it must be done to keep factors of greed, fame, status, power like defilements out of the financial system.  More parameters can be introduced within this metric but these 3 are fundamental.
+
+This way minimum price of a product is also administered using scarcity index. But it is **must** to have clear guidelines and information available to producers, consumers and suppliers before the starting of a financial year - information and guidelines about the procedure of supplier and manufacturer selection, goods and services selection, the priority of parameters within metrics, the +ve and -ve scarcity index value ranges. This will remove exploitation by politicians and riches as in current system they arbitrarily choose preferences according to their personal interests and increase prices directly to gain profits or decrease prices to increase sales. 
+
+   - penalty-index can also be used as punishment to finance misusers like china, who when gained much wealth and power under current corrupted financial system, started occupying lands of neighbouring nations forcefully and started putting small nations under debt of unrequired projects.
+
+Some other reforms can also be taken to maintain requisite number of suppliers and manufacturers. New interested ones may buy out existing ones. Existing ones, if reluctant, then they clearly  provide in which cases their poor and good quality products are used; assess those cases and conclude if that firm is allowed to carry-on poor quality products or not. 
+An institution can be setup for monitoring consumers, suppliers and producers. If penalty-index is used or more than required suppliers & producers are found then this institution will also be penalized because it allowed such condition to occur.
+
+
+Some points on +ve scarcity-index given by mr. Blacky (blackbox.ai) can be read in the relevant chat file.
+
+
+Uses : Initially v-currency is to be used in international transactions, nations can choose their conversion ratios to their local currencies based on the taxes to be leived on international transactions and their own agendas. A common portal for facilitating such transactions can be created. That will be an easy way to keep track of all duties leived. This will prevent sudden turmoils in economies that may arise due to uncertainity fear among traders with the introduction of HL framework.
+
+       Later, as the understanding grows, fair data is available, this can be integrated directly as local currency as well by modifying the duty charts.
+
+Types of HL : Based on climates and regions, we may get different values of HL for a given task. 
+   - **Climate Adjustments**: Consider adjusting the HL value based on climate conditions (hot, cold, neutral) that affect the calories burned. For example:
+     - **Hot Climates**: Higher calorie expenditure due to heat stress and hydration needs.
+     - **Cold Climates**: Increased energy expenditure for warmth and physical activity.
+     - **Neutral Climates**: Standard calorie expenditure for typical labor activities.
+
+But, the average value is to be taken from regions with same sea height level and similar climate. This way, a country can have more fairer costing & pay standards.
+
+For each and every work, a minimal education and training requirement is to be set. For people who, under existing financial systems, are uneducated but are still getting a particular task done, gather all of their experience into knowledge points and use that as a standard test set for educated ones doing same task, and do similar requirement or quality standard in vice versa manner i.e. apply the minimal education for that task to be completed by the uneducated one. There can be relaxation criteria made according to ages during initial implementation phase of v-currency. Eg. completing education & training is not mandatory for age above 50 unless its a large scale management kind of job, like that of politicians..
+
+Possible criticisms against this framework, as pointed out by blacky..
+
+
+### Potential Criticisms of the HL Framework
+
+1. **Complexity of Implementation**
+
+2. **Cultural Differences**:
+
+3. **Economic Disparities**:
+
+4. **Sustainability Concerns**:
+
+5. **Resistance from Governments and Institutions**:
+
+6. **Technological Dependence**:
+
+
+And detailed corresponding addressing of those concerns by me and elaborated by blacky can be read in chat files. Brief addressings : 
+
+1. **Averages as Standards and focus on equality, prosperity**: 
+
+2. **Focus on Calories Burned and objective analysis instead of societal based analysis**: 
+
+3. **Layered Approach and gradual involvement of v-currency into local**: 
+
+4. **Scarcity Index**: 
+
+5. **Tax Revenue and Control, Peaceful nation option**: 
+
+6. **Access to Resources and anonymous data collection**: 
+
+
+### Implementation : 
+   - Initially it can be experimented between 2 villages of a nation, then with a group of <small nation, big nation>  and <small nation1, small nation2> where small is in terms of all of the land, people and resources. Start with basic exchanges first then move on to multiple and complex layered exchanges.
+
+   - Then do with <one big nation, multiple small nations> across globe. This will introduce shipping, import, export factors as well. 
+
+   - After successful attempts, do with <big nation1, big nation2>. 
+Slowly and gradually shift. After all nations are there in international transaction, now move for replacement of local currencies or alternate to local currencies by redefining tax and duty rules.
+
+
+### Teachings and trainings : 
+   - As stated earlier, every work and task comes with an education and training, be it predefined or be it from the collection of experiences of experts.
+    - But apart from work, shaping of mentality is the basic seed in this framework of v-currency so as to enable people work efficiently and worry-free within this system. Remember, our major task is to remove greed like defilements from finance systems and not to provide just another fantasy item to play around with. 
+   - Teachings that teach compassion, self-observation, accepting and correcting your mistakes, respect, caring, dedication, determination, responsibilities fulfillment etc. like that of buddha where teacher himself was noble and right, truth speaker, unattached, non intoxicant, calm, celibate, angerless, fearless, greedless etc.  Such principles must be incorporated into governing institutions for v-currency and into society.
+   - Compassion and calmness doesn't mean that such person is unable to give punishment rather it means that such person will have strongest will and action when it comes to punishment but he will also have the soft corner to give chance to the criminal to walk on noble path unlike anger and defilements oriented people who can't hold back.
+
+### Disaster management: 
+   - Have an international disaster fund, if a country goes through a natural disaster or any other kind of disaster then help it either by having its scarcity index value increased to uniformily distribute the hit to all nations or by tapping that emergency fund to uplift its citizens or both (though unlikely). 
+   - Its because when you are using v-currency then you are not just exchanging goods and services rather you are exchanging physical and mental hard work done by various communities. Similar steps within a nation, once v-currency is embedded within local. 
+
+### Stock market disclaimers and  handling: 
+   - The stocks discussed in chat with blacky are for analysis purpose only and are not being promoted or recommended in any form. 
+
+   - Under the existing financial system, stock market is based solely on demand-sale exploitive, cunning and falsehoodness for general public. v-currency doesnot support this style because when demand increases then v-currency may increase the prices but then it may also reallocate that duty to the effected producers & suppliers incase it was due to non-essential trend-shift. And when there is an increase in supply scenario, v-currency aims to prevent this scenario completely using monitoring-institutions separately but even if such a case appears then selling prices won't go down rather the defaulters will take a hit that would be reflected in their profits sheet.
+   - In the existing systems, stock markets are manipulated by either increasing buying quantity or selling quantity. Gambling is done by using futures and options that may compell big companies to increase or decrease supply in actual market accordingly.
+   - Instead v-currency preaches that stock market investement is just like any other offline investement in a business or firm. Stock price movements must not be there due to options, futures, delivery and intraday. Take an example to understand, a firm "X" wants to extend its services or wants to pay loans or for whatever reasons it decides to welcome investement by presenting a good opportunity & profits ahead for itself. Say, it's net value as per HL framework is 1 million HL. It wants 1 million HL more to complete the stated operation as per it's presentation then simply it wants to increase more members in it's 50% of the business. Then just like other members, depending upon the share %, everyone will receive annual profit percentage after deducting taxes, insurance, development fund, disaster fund.. means just like "X" was distributing profits to its owner on the basis of p%, the same way it will redistribute its profits to its new members as well.
+   - It will prevent "X" to grab and run away investors money like we hear thw case of bankruptcy.
+   - Separate monitoring institutions of current financial exchange systems will still be there to prevent fraud cases, eg. "X" may welcome inveatments but after taking up investments, it may recirculate money to other contracted places and show loss in upcoming days untill new investors start to pull out. Once they do, it will get rid of them by giving back their percentage as per the decreased net value of "X" and then it will start pulling in those recirculated money back with 0 additional share distribution.
+
+
+### Maintainence of stock market untill v-currency implementation:
+   - In any case, all stock price movements must be banned apart from delivery, be it futures, options, intraday or anything else. 
+   - Make sure that before stock market is operated as per v-currency framework, all stock prices must go at least 1% higher than the historically highest price. This will prevent losses of stocks bought in delivery. This extra 1% can be adjusted from 100% or more profit makers or extra printed HL credits can be allocated to citizens wallet to reset their market loss and start a fresh. There could be other ways possible too that market moderators and monitors can best guide, that will prevent losses to delivery buyers and will also restart entire earth's economy... which can be figured out during experimentation phase as mentioned in implementation-strategy.
+
+
+### Some Inspirational points : 
+   - For those old citizens who are capable of bringing change, have good connections and resources to do so, try not to die by leaving behind such greedy systems.
+   - Because possibly, current generations and upcoming ones would mostly be devoid of ground activities and have traits of weak ming & physicality, more anger and short temperdness, greedy priciples without any foothold on values & ethics, dependent on technology(i.e. someone else will do).
+   - These type of people are seen as pitiful by nobleness oriented minds (strong ones) and will be exploited by defilement dwellers. Leaving behind such defilement oriented system will only spoil them more and a global scale war is unavoidable. 
+   - If an average person like me can figure out this much on v-currency, even if incomplete then think what so many brilliant people on earth can do together. 
+   - Look upto each other, help each other. Dont say, "follow me, I will absolve you or I am higher" etc. kind of ignorant things otherwise it doesn't matter what title you give yourself, be it doctor, engineer, propagator, god or anything, you are nothing compared to a merely average normal human. Be on ground, loose ego and prosper in both livelihood and nobleness.l 
+   - Such a short lifespan we have, if want to leave something behind before your death then don't leave exploiting principles and environment behind.
+
+----
+----
+
+   - In this way markets and society will be "just" a market and society and not a source of corruption, havoc, ill-will.
+   - v-currency, in this way, removes all the need for ill-occupations like drugs, sex scandal, human trafficking etc. which a person may have adopted due to the trap by some defilement full org. or people.
+   - v-currency also increases jobs and works as monitoring systems will evolve and expand, education and noble ethics teachings will evolve and expand, riches will retire and new ones will take lead.
+   - v-currency also removes the unnecessary exploitation of resources and health like "damage earth to live on toxic mars, which is laughable and pitiful", renders and compells to remain stick to the necessary and required activities.
+
+### Conversation with blacky (blackbox.ai) 
+
+   - https://www.blackbox.ai/share/c3e1d18e-b98b-4571-a1cd-82aed992e7f0
+   - A gradual refining of thought process can be noted. Though this v-currency was little bit formulated in mind during 2023 but properly written now for unknown reasons.
+
+
+### symbol name
+   - v in v-currency is just a time-pass symbol, an initial letter of my first name. But I also heard somewhere and noted too that in pali language v (pronounced as vi ), if appended to a word then makes it a special or outstanding or highest etc. depending upon the context. So it means special-currency.
+
+
+
+
+
+
