@@ -3,6 +3,8 @@
 
    - Independent of status of a nation.
 
+### Major task : 
+   - To remove the greed, ego, power, status, fear etc. type of defilements from existing financial & exchange systems on earth. To bring equality, prosperity and to remove exploitation done through existing financial systems.
 ----
 ----
    - If you find any mistake or want to enhance it, simply fork this project and do. Gnu gpl v3(attached) and [gnu fdl](https://www.gnu.org/licenses/fdl-1.3.html) licences can be used if you want all developements to be public only.
