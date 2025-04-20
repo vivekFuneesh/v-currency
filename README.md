@@ -5,7 +5,7 @@
 
 ----
 ----
-   - If you find any mistake or want to enhance it, simply fork this project and do as per gnu gpl v3 licence.
+   - If you find any mistake or want to enhance it, simply fork this project and do. Gnu gpl v3(attached) and [gnu fdl](https://www.gnu.org/licenses/fdl-1.3.html) licences can be used if you want all developements to be public only.
    - Reading Sequence of files :
       - a. [v-currency overview](https://github.com/vivekFuneesh/v-currency/blob/main/v-currency.md)
       - b. [quality-index](https://github.com/vivekFuneesh/v-currency/blob/main/quality-index.md)
