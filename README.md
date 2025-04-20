@@ -19,4 +19,5 @@
        - a. [inspirations and other infos.](https://github.com/vivekFuneesh/v-currency/blob/main/inspirations%20and%20other%20infos.md)
         - b. [long conversation with blacky](https://github.com/vivekFuneesh/v-currency/blob/main/conversation-export-2025-04-17.md)
         - c. [conversation specific to v-currency model](https://github.com/vivekFuneesh/v-currency/blob/main/conversation-specific-to-v-currency.md)
+        - Above b and c are discussions with blackbox ai, in case if you wish to start from basics.
 
