@@ -207,7 +207,8 @@ Possible criticisms against this framework, as pointed out by blacky..
 6. **Technological Dependence**:
 
 
-   - *And detailed corresponding addressing of those concerns by me and elaborated by blacky can be read in chat files. Brief addressings*: 
+### Criticism Response 
+   - Detailed responses corresponding to these concerns by me and elaborated by blacky can be read in chat files. Brief addressings: 
 
 1. **Averages as Standards and focus on equality, prosperity**: 
 
@@ -219,4 +220,13 @@ Possible criticisms against this framework, as pointed out by blacky..
 
 5. **Tax Revenue and Control, Peaceful nation option**: 
 
-6. **Access to Resources and anonymous data collection**: 
+6. **Access to Resources and anonymous data collection**:
+
+
+### Possible flaw and experimentable extension: 
+
+   - Although this is incomplete model and has not been revised properly but upon 1st revision it can be seen that helpers are not getting extra profits from what they invested in terms of physical and non physical hard work rather p% profit was included for producers & suppliers only.
+   - So, include p% to all i.e. to helpers, producers, suppliers, any other institutions. It will then also become more fairer.
+   - But if p% is the maximum profit for all on any product & service then share allocation to helpers wont be there and each and every individual along with entity will be called a businessman or entreprenuer, be it a field worker or be it a scientist.
+   - In the existing financial systems, this is a major flaw as well because of which everyone jumps in a rat-race to gain more and more. In existing financial systems either helpers are paid less or are paid just slightly more than required and institutions charge maximum p% profits to consumers where helpers are themselves the part of consumers as well.
+   - But if we equally allocate same p% to everyone and in each work then rat race will completely end. People will become more joyful, healthy. Communities will prosper.
