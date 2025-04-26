@@ -1,6 +1,6 @@
 
 ### Stock market disclaimers and  handling: 
-   - The stocks discussed in chat with blacky are for analysis purpose only and are not being promoted or recommended in any form. 
+   - The stocks discussed in chat with blacky are for analysis purpose only and are not being promoted or recommended in any form. I am not invested in any of the discussed ones.
 
    - Under the existing financial system, stock market is based solely on demand-sale exploitive, cunning and falsehoodness for general public. v-currency doesnot support this style because when demand increases then v-currency may increase the prices but then it may also reallocate that duty to the effected producers & suppliers incase it was due to non-essential trend-shift. And when there is an increase in supply scenario, v-currency aims to prevent this scenario completely using monitoring-institutions separately but even if such a case appears then selling prices won't go down rather the defaulters will take a hit that would be reflected in their profits sheet.
    - In the existing systems, stock markets are manipulated by either increasing buying quantity or selling quantity. Gambling is done by using futures and options that may compell big companies to increase or decrease supply in actual market accordingly.
