@@ -3,7 +3,7 @@
 A gradual refining of thought process can be noted in this chat.
 
 ### Disclaimer :
-   - The stocks discussed in this chat are for analysis purpose only and are not being promoted or recommended in any form.
+   - The stocks discussed in this chat are for analysis purpose only and are not being promoted or recommended in any form. I am not invested in any of the discussed ones.
 
 ---- 
 below is the discussion with blackbox.ai before formulating v-currency.  
